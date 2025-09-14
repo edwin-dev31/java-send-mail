@@ -2,6 +2,8 @@
 The purpose of this project is to show how to send an email in a simple way, using either a **Microsoft** or **Google** account.
 You have to create an App Password, here is a guide:
 
+---
+
 ## With Microsoft
 
 ### 1️⃣  Enable two-step verification (2FA/MFA)
@@ -23,6 +25,8 @@ You have to create an App Password, here is a guide:
 
 💡 Use this code as your password in the program.
 
+---
+
 ## 🟥 With Gmail
 
 ### 1️⃣  Enable two-step verification (2FA)
@@ -38,9 +42,7 @@ You have to create an App Password, here is a guide:
 
 - Create a new application password
   
-- <img src="images/create.app.png" alt="img" width="300"/>
-
-
+<img src="images/create.app.png" alt="img" width="300"/>
 
 - Click on Create.
 - Get the application key
