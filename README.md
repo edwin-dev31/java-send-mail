@@ -37,7 +37,10 @@ You have to create an App Password, here is a guide:
 - Once 2FA is active, go to [apppasswords](https://myaccount.google.com/apppasswords), login again (**Google will ask for your password**).
 
 - Create a new application password
-  ![img.png](images/create.app.png)
+  
+- <img src="images/create.app.png" alt="img" width="300"/>
+
+
 
 - Click on Create.
 - Get the application key
@@ -54,4 +57,4 @@ You have **two ways** to send content:
 
 Here’s an example of how it looks with each:
 
-![img.png](images/mail.content.png)
+<img src="images/mail.content.png" alt="img" width="400"/>
