@@ -1,29 +1,6 @@
 # 📧 Send Mail
-The purpose of this project is to show how to send an email in a simple way, using either a **Microsoft** or **Google** account.
+The purpose of this project is to show how to send an email in a simple way, using your **Google** account.
 You have to create an App Password, here is a guide:
-
----
-
-## With Microsoft
-
-### 1️⃣  Enable two-step verification (2FA/MFA)
-👉 Go to [account manager](https://account.live.com/proofs/manage)
-
-- 🔑 Login with your email (@outlook.com, @hotmail.com, etc.).
-- If you don't have two-step verification enabled, enable it now.
-- Microsoft will ask for a phone number or the Microsoft Authenticator app.
-
-⚠️ _**This step is mandatory**_, because without 2FA, application passwords are not enabled.
-
-### 2️⃣  Access advanced security options
-👉 Go to: [advancedsecurity](https://account.live.com/security/advancedsecurity)
-
-- Scroll down to the _App passwords section_.
-- Create a new application password
-- Click on Create a new application password.
-  Microsoft will generate a 16-character code which you should save (example: `abcd efgh ijkl mnop`).
-
-💡 Use this code as your password in the program.
 
 ---
 
